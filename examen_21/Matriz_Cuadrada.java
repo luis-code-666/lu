@@ -7,7 +7,7 @@ public class Matriz_Cuadrada {
 			System.out.println();
 			
 			for(int j=1;j<5;j++){
-				matriz[i][j] = j*2;
+				matriz[i][j] = j*3;
 				System.out.println(matriz[i][j]+ " ");
 			}
 		}
