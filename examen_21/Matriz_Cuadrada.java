@@ -2,7 +2,7 @@ package examen_21;
 
 public class Matriz_Cuadrada {
 	public static void main (String[] args) {
-		int matriz[][] = new int [5][5];
+		int matriz[][] = new int [6][6];
 		for(int i=1; i<5; i++) {
 			System.out.println();
 			
